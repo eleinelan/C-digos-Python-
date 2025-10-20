@@ -1,0 +1,6 @@
+flask
+selenium
+webdriver-manager
+pandas
+openpyxl
+python-dateutil
